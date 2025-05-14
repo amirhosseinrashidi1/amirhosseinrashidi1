@@ -12,7 +12,6 @@
 ---
 
 ## 🌐 Connect with Me
-
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/amirhossein.rashidii)  
+  
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:amirhosseinrashidii026@gmail.com)  
 [![Medium](https://img.shields.io/badge/-Medium-000000?style=flat&logo=medium&logoColor=white)](https://amirhosseinrashidii.medium.com)
