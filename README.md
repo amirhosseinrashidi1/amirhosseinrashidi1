@@ -5,21 +5,23 @@
 
 ## 🧠 About Me
 
-🎓 Studying and working in the field of Networking
-💻 Interested in Network Programming and Practical Implementations
-📚 Uploading projects based on networking papers and real-world use cases
-🛫 Interested in Networking, Infrastructure, and Air Traffic Control (ATC) System Security
-🛠️ Working with Python, Linux, Wireshark, and related tools 
+- 🎓 Studying and working in the field of Networking
+- 💻 Interested in Network Programming and Practical Implementations
+- 📚 Uploading projects based on networking papers and real-world use cases
+- 🛫 Interested in Networking, Infrastructure, and Air Traffic Control (ATC) System Security
+- 🛠️ Working with Python, Linux, Wireshark, and related tools 
 
 
 
 ## Current Focus
 
-    Network programming and automation
-    Implementing academic papers and technical ideas
-    Building practical networking projects
-    Exploring infrastructure and network-related systems
+   -  Network programming and automation
+   -  Implementing academic papers and technical ideas
+   -  Building practical networking projects
+   -  Exploring infrastructure and network-related systems
+     
 ---
+
 
 ## 🌐 Connect with Me
   
