@@ -1,14 +1,24 @@
 <h1 align="center">🛡️ Hi, I'm Amirhossein Rashidi</h1>
-<h3 align="center">🔐 Interested in learning and putting them into practice</h3>
+<h3 align="center">Network Enthusiast | Programmer | Research & Implementation</h3>
 
 ---
 
 ## 🧠 About Me
 
-- 🎯 Passionate about Network Security  
-- 🛠️ Skills: Python, Wireshark, Metasploit, Linux  
-- 🧪 Projects: Network Traffic Analyzer, Python-based Security Scanner, IDS Tools  
+🎓 Studying and working in the field of Networking
+💻 Interested in Network Programming and Practical Implementations
+📚 Uploading projects based on networking papers and real-world use cases
+🛫 Interested in Networking, Infrastructure, and Air Traffic Control (ATC) System Security
+🛠️ Working with Python, Linux, Wireshark, and related tools 
 
+
+
+## Current Focus
+
+    Network programming and automation
+    Implementing academic papers and technical ideas
+    Building practical networking projects
+    Exploring infrastructure and network-related systems
 ---
 
 ## 🌐 Connect with Me
